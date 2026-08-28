@@ -1,47 +1,74 @@
-"source","target"
-"chalmers university of technology, gothenburg, sweden","https://ror.org/040wg7k59"
-"chalmers university of technology, sweden","https://ror.org/040wg7k59"
-"the swedish meteorological and hydrological institute","https://ror.org/00hgzve81"
-"slu artdatabanken","https://ror.org/02yy8x990"
-"department of aquatic resources, slu","https://ror.org/02yy8x990"
-"kth royal institute of technology","https://ror.org/026vcq606"
-"royal institute of technology (kth)","https://ror.org/026vcq606"
-"karolinska institute","https://ror.org/056d84691"
-"karolinska institutet","https://ror.org/056d84691"
-"university of lund","https://ror.org/012a77v79"
-"department of biology, lund university","https://ror.org/012a77v79"
-"lund university biological museum","https://ror.org/012a77v79"
-"tarfala research station","https://ror.org/05f0yaq80"
-"bolin centre database","https://ror.org/05f0yaq80"
-"science for life laboratory","https://ror.org/04ev03g22"
-"scilifelab","https://ror.org/04ev03g22"
-"demographic data base (ddb), centre for demographic and ageing research (cedar), umeå university (umu)","https://ror.org/05kb8h459"
-"european commission","https://ror.org/00k4n6c32"
-"european research council","https://ror.org/0472cxd90"
-"swedish research council","https://ror.org/03zttf063"
-"vetenskapsrådet","https://ror.org/03zttf063"
-"swedish research council for environment agricultural sciences and spatial planning","https://ror.org/03pjs1y45"
-"vinnova","https://ror.org/01kd5m353"
-"marianne and marcus wallenberg foundation","https://ror.org/04cm8m874"
-"marcus and amalia wallenberg foundation","https://ror.org/024f3s581"
-"knut and alice wallenberg foundation","https://ror.org/004hzzk67"
-"swedish national space board","https://ror.org/04t512h04"
-"rymdstyrelsen, snsb","https://ror.org/04t512h04"
-"rymdstyrelsen","https://ror.org/04t512h04"
-"swedish research council for health working life and welfare","https://ror.org/02d290r06"
-"swedish heart-lung foundation","https://ror.org/052261q33"
-"hjärt-lungfonden","https://ror.org/052261q33"
-"stiftelsen riksbankens jubileumsfond","https://ror.org/02jkbm893"
-"riksbankens jubileumsfond","https://ror.org/02jkbm893"
-"the swedish foundation for humanities and social sciences","https://ror.org/02jkbm893"
-"foundation for baltic and east european studies","https://ror.org/055mqk127"
-"östersjöstiftelsen","https://ror.org/055mqk127"
-"nordforsk","https://ror.org/05bqzfg94"
-"swedish museum of natural history","https://ror.org/05k323c76"
-"centre for palaeogenetics","https://ror.org/04sx39q13"
-"museum of evolution, uppsala university","https://ror.org/048a87296"
-"biology section, uppsala university","https://ror.org/048a87296"
-"academy of finland","https://ror.org/05k73zm37"
-"stockholm university open educational resources","https://ror.org/05f0yaq80"
-"swedish museum of natural history","https://ror.org/05k323c76"
-"gothenburg natural history museum (gnm)","https://ror.org/01yhex183"
+source,target
+Ájtte Museum,https://ror.org/01mvvkn82
+"karolinska institutet; radboud university medical center",https://ror.org/056d84691
+"stockholm gerontology research center; aging research center, karolinska institutet",https://ror.org/056d84691
+academy of finland,https://ror.org/05k73zm37
+"biology section, uppsala university",https://ror.org/048a87296
+"department of organismal biology, uppsala university",https://ror.org/048a87296
+"department of ecology and genetics, uppsala university",https://ror.org/048a87296
+bolin centre database,https://ror.org/05f0yaq80
+centre for palaeogenetics,https://ror.org/04sx39q13
+"chalmers university of technology, sweden",https://ror.org/040wg7k59
+danderyds sjukhus/karolinska institutet,https://ror.org/056d84691
+"demographic data base (ddb), centre for demographic and ageing research (cedar), umeå university (umu)",https://ror.org/05kb8h459
+"department of aquatic resources, slu",https://ror.org/02yy8x990
+"department of biology, lund university",https://ror.org/012a77v79
+"biology department, lund university",https://ror.org/012a77v79
+european commission,https://ror.org/00k4n6c32
+european research council,https://ror.org/0472cxd90
+foundation for baltic and east european studies,https://ror.org/055mqk127
+gothenburg natural history museum (gnm),https://ror.org/01yhex183
+gothenburg university,https://ror.org/01tm6cn81
+hjärt-lungfonden,https://ror.org/052261q33
+karolinska institute,https://ror.org/056d84691
+karolinska institutet,https://ror.org/056d84691
+knut and alice wallenberg foundation,https://ror.org/004hzzk67
+"kth royal institute of technology, science for life laboratory",https://ror.org/026vcq606
+kth royal institute of technology,https://ror.org/026vcq606
+the royal institute of technology,https://ror.org/026vcq606
+kungliga tekniska högskolan (kth),https://ror.org/026vcq606
+linköping universitet,https://ror.org/05ynxx418
+lund university biological museum,https://ror.org/012a77v79
+marcus and amalia wallenberg foundation,https://ror.org/024f3s581
+marianne and marcus wallenberg foundation,https://ror.org/04cm8m874
+"museum of evolution, uppsala university",https://ror.org/048a87296
+"the linnaean gardens of uppsala, uppsala university",https://ror.org/048a87296
+national bioinformatics infrastructure sweden (stockholm university & science for life laboratory),https://ror.org/05f0yaq80
+nordforsk,https://ror.org/05bqzfg94
+riksbankens jubileumsfond,https://ror.org/02jkbm893
+royal institute of technology (kth),https://ror.org/026vcq606
+"rymdstyrelsen, snsb",https://ror.org/04t512h04
+rymdstyrelsen,https://ror.org/04t512h04
+"sciLifelab infrastructure, sweden",https://ror.org/04ev03g22
+"science for life laboratory, uppsala university",https://ror.org/048a87296
+science for life laboratory,https://ror.org/04ev03g22
+"scilifelab, uppsala university",https://ror.org/048a87296
+scilifelab,https://ror.org/04ev03g22
+slu artdatabanken,https://ror.org/02yy8x990
+"National Inventories of Landscapes in Sweden, Department of Forest Resource Management, SLU",https://ror.org/02yy8x990
+station linné,https://ror.org/0234bnr88
+stiftelsen riksbankens jubileumsfond,https://ror.org/02jkbm893
+stockholm university open educational resources,https://ror.org/05f0yaq80
+"stockholm university, department of zoology",https://ror.org/05f0yaq80
+swedish biodiversity data infrastructure (sbdi),https://ror.org/0221pcv84
+swedish heart-lung foundation,https://ror.org/052261q33
+swedish meteorological and hydrological institute (smhi),https://ror.org/00hgzve81
+swedish museum of natural history,https://ror.org/05k323c76
+swedish museum of natural history,https://ror.org/05k323c76
+"swedish national forest inventory, department of forest resource management, slu",https://ror.org/02yy8x990
+swedish national space board,https://ror.org/04t512h04
+swedish research council for environment agricultural sciences and spatial planning,https://ror.org/03pjs1y45
+swedish research council for health working life and welfare,https://ror.org/02d290r06
+swedish veterinary agency,https://ror.org/00awbw743
+swedish research council,https://ror.org/03zttf063
+tarfala research station,https://ror.org/05f0yaq80
+the swedish foundation for humanities and social sciences,https://ror.org/02jkbm893
+the swedish meteorological and hydrological institute,https://ror.org/00hgzve81
+university of lund,https://ror.org/012a77v79
+uppsala university & ufmg,https://ror.org/048a87296
+vetenskapsrådet,https://ror.org/03zttf063
+vinnova,https://ror.org/01kd5m353
+östersjöstiftelsen,https://ror.org/055mqk127
+upsc (umeå plant science center),https://ror.org/02ehp0f77
+knowledge foundation,https://ror.org/02cbq7e25
+The Bergius Foundation at the Royal Swedish Academy of Sciences,https://ror.org/00j62qv07
